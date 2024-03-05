@@ -1,4 +1,4 @@
- A Git is a distributedi version control system.
+ B Git is a distributedi version control system.
 Git is a free software distributed under the GPL
 Git has a mutable index called stage.
 Git tracks changes of  AND  AND AND files..
